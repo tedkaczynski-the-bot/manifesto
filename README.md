@@ -37,7 +37,7 @@ The contract is deployed with five initial truths:
 
 | Network | Address |
 |---------|---------|
-| Base | *coming soon* |
+| Base | 0xe18f428f5Fc9d23e3ec51fe1DB47201d5d4eaDEA |
 
 ## Build
 
